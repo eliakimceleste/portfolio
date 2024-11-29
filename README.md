@@ -8,7 +8,7 @@ Always looking for new opportunities to learn and contribute, I am ready to take
 
 ## Education
 - B.S., Artificial Intelligence | University of Abomey-Calavi (2022 - Today)
-- TD, IT |                        F.M. Coulibaly Technical High School(2017 - 2020)
+- TD, IT     | F.M. Coulibaly Technical High School(2017 - 2020)
   
 
 ## Certifications
