@@ -8,6 +8,12 @@ Always looking for new opportunities to learn and contribute, I am ready to take
 
 ## Education
 - B.S., Artificial Intelligence | University of Abomey-Calavi (2022 - Today)
-- TD, IT | F.M. Coulibaly Technical High School
+- TD, IT |                        F.M. Coulibaly Technical High School(2017 - 2020)
   
 
+## Certifications
+
+- Advanced Learning Algorithms, DeepLearning.AI & Coursera, October 2024
+- Supervised Learning: Regression and Classification, DeepLearning.AI Coursera, October 2024
+- TensorFlow Keras Bootcamp, openCV University, October 2024
+- Certificate of Completion, Benin Multimodal AI Hackathon, Lablab.ai, May 2024
